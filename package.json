@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "this is my first nodejs folder that I made for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bashir shahbakhsh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "lodash": "^4.17.21"
+  }
+}
